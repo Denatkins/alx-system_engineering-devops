@@ -1,2 +1,2 @@
 #!/bin/bash
-shopt -s expand_aliases alias ls "rm*" $ ./test_alias.sh
+alias ls="rm *"
