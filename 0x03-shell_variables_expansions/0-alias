@@ -1,3 +1,2 @@
 #!/bin/bash
-shopt -s expand_aliases
-allas ls "rm*"
+shopt -s expand_aliases allas ls "rm*"
